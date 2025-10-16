@@ -1,7 +1,7 @@
 const https = require("https");
 const fs = require("fs");
 
-const API_KEY = "AIzaSyCdZhEQQax5ea9YOSkMmDWuAG-JYu0Bv7M";
+const API_KEY = "";
 
 const MODEL = "gemini-2.0-flash";
 
